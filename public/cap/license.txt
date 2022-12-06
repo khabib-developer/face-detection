@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cap
+* source:	https://sketchfab.com/3d-models/cap-3a3bb4aa2e284e98b9f761defc6a8f4a
+* author:	KaramellGlass (https://sketchfab.com/KaramellGlass)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cap" (https://sketchfab.com/3d-models/cap-3a3bb4aa2e284e98b9f761defc6a8f4a) by KaramellGlass (https://sketchfab.com/KaramellGlass) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
